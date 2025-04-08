@@ -15,7 +15,7 @@ Here is a portion of the bridge monitoring data used in our research. This data 
 
 ## 2. Data Access Instructions
 Due to data privacy and other restrictions, this dataset is not publicly available. However, if researchers are interested in using this data for legitimate research purposes, they can follow the steps below:
-1. Compose an email to [xxxxxxx@.com](syucheng1998@gmail.com).
+1. Compose an email to [syucheng1998@gmail.com](syucheng1998@gmail.com).
 2. In the email, clearly state the research purpose for which you intend to use the data. For example, explain how the data will be used in your study on bridge health monitoring, dynamic strain prediction models, or related fields.
 3. Indicate your affiliated institution, providing details such as the name of your university, research institute, or company.
 4. Attach a scanned copy of the signature or official seal of your institution's supervisor or relevant authority. This signature or seal serves to verify the authenticity of your request and your institutional affiliation.
