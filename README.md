@@ -1,3 +1,6 @@
+# Data Repository for "MCM-Net: High-Speed Railway Bridge Dynamic Strain Prediction Network in Smart Cities based on Causal Temporal Attention and Multimodal Information"
+This data repository is associated with the research paper titled "MCM-Net: High-Speed Railway Bridge Dynamic Strain Prediction Network in Smart Cities based on Causal Temporal Attention and Multimodal Information". The data plays a crucial role in training, validating, and testing the MCM - Net model proposed in the paper, aiming to predict the dynamic strain of high - speed railway bridges accurately.
+
 # Partial Bridge Monitoring Data and Data Access Instructions
 ## 1. Partial Data Display
 Here is a portion of the bridge monitoring data used in our research. This data includes information such as the day of the week, hour of the day, and various sensor readings related to the bridge's status, including dynamic deflection (DCAM01 - DCAM04), static deflection (SCAM01 - SCAM06), inclination (INC01 - X, INC01 - Y, INC02 - X, INC02 - Y), displacement (DIS01, DIS02), temperature (TEM), humidity (HUM), and the logarithmically transformed dynamic strain data (log_drsg).
